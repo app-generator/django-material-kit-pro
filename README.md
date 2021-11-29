@@ -4,7 +4,7 @@
 
 <br />
 
-- Up-to-date [dependencies](./requirements.txt): **Django 3.2.6 LTS**
+- `Up-to-date dependencies`: **Django 3.2.6 LTS**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Material Dashboard** (PRO Version) by **Creative-Tim**
 - SQLite Database, Django Native ORM
