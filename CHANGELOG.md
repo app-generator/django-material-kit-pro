@@ -1,22 +1,21 @@
 # Change Log
 
-## [1.0.1] 2022-06-11
-### Improvements
+## [1.0.2] 2024-12-06
+### Changes
 
-- Built with [Material Kit PRO Generator](https://appseed.us/generator/material-kit-pro/)
-  - Timestamp: `2022-06-11 16:23`
+- Bump UI Version
+  - Material Kit PRO `v3.1.0`
 
-## [1.0.0] 2020-10-02
-### Initial Release
+## [1.0.1] 2023-01-12
+### Changes
 
-- UI: Material Kit PRO - v2.2.0
-- Codebase: [Django Boilerplate](https://github.com/app-generator/boilerplate-code-django) v1.0.6
-  - Dependencies update (all packages) 
-    - Django==3.2.6 (latest stable version)
-  - Codebase:
-    - Better Code formatting
-    - Improved Files organization
-    - Optimize imports
-    - Docker Scripts Update
-- Tooling: Added Gulp SCSS compilation scripts
+- Fix `Render` Deployment 
 
+## [1.0.0] 2023-01-12
+### Changes
+
+- Move to theme-based pattern
+  - [Django Theme Mkit2 PRO](https://github.com/app-generator/django-theme-mkit2-pro) `v1.0.0`
+  - UI: Material Kit2 PRO `v3.0.3`  
+- 🚀 `Deployment` 
+  - `CI/CD` flow via `Render`
